@@ -1,4 +1,4 @@
-package go-string-tools
+package stringtools
 
 import "fmt"
 
